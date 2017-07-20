@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\HARI\.android\build-cache\d95899f2d701e4ef9ae759ca7f0ceda64e9cd669\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Android\ravi\Android-Class-Examples\ToDoList\app\build\intermediates\pre-dexed\debug\classes_f6b5ce05bec7968e6fda3a911aa6a357832babe4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HARI\.android\build-cache\32db98ac793b42483c06fc55e4e561730f763ea8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="E:\Android\ravi\Android-Class-Examples\ToDoList\app\build\intermediates\pre-dexed\debug\classes_2faca1f64576b8482d9b8c493d5023f13770f27d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HARI\.android\build-cache\18523e18eb861950adb4f06588bd62fcccd42cd2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\Android\ravi\Android-Class-Examples\ToDoList\app\build\intermediates\pre-dexed\debug\classes_bc115ffa999cf9799d7564e6edf5c40b6abd5d06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HARI\.android\build-cache\ba917ee04aec26e249540d63f9c89a5878680481\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\Android\ravi\Android-Class-Examples\ToDoList\app\build\intermediates\pre-dexed\debug\classes_e7eeeb8a6c31bfa81eb48574575fb3b6dd8a8dce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HARI\.android\build-cache\4dade9e2eaff011eb65987c10512e9ad643c5de0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="E:\Android\ravi\Android-Class-Examples\ToDoList\app\build\intermediates\pre-dexed\debug\classes_0da3ac621df9f167dd4334e1c4a1c23fc81ee0c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HARI\.android\build-cache\ea5207f9db517a9725bef77a233f0013a40c2777\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\Android\ravi\Android-Class-Examples\ToDoList\app\build\intermediates\pre-dexed\debug\classes_d04cf12bdb256787e430b68f6bab90a75989e4e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HARI\.android\build-cache\36f7b5521418e86b88a8a4fabea5f07d5d7c89ec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="E:\Android\ravi\Android-Class-Examples\ToDoList\app\build\intermediates\pre-dexed\debug\classes_7c823fe2dec64b9ec981d3afc3318d58bda3fbb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HARI\.android\build-cache\62333b31da516ae99b4826af611c8fce5831c06e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\Android\ravi\Android-Class-Examples\ToDoList\app\build\intermediates\pre-dexed\debug\classes_3f8eab610ecea956dee09351eee93e9d8d8abd61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HARI\.android\build-cache\cffd29619d9f7e4e5c9af413e837140234e10d60\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="E:\Android\ravi\Android-Class-Examples\ToDoList\app\build\intermediates\pre-dexed\debug\classes_7a1d392cbd6f0ab2d8ff5a1e75b4d0ba48fa0794.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Studies\Android_Work\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\Android\ravi\Android-Class-Examples\ToDoList\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_4d5095b9712d17fe8ae48b20624a3f91d59658d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HARI\.android\build-cache\381e3d11d34e9c6228662f2dfde52013a5c1837a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\Android\ravi\Android-Class-Examples\ToDoList\app\build\intermediates\pre-dexed\debug\classes_2a134eeeb5824b7a5db55eea962419e201f78e38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HARI\.android\build-cache\585c471a32b2e59dde19dfd8f03e722839a006ce\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\Android\ravi\Android-Class-Examples\ToDoList\app\build\intermediates\pre-dexed\debug\classes_7e683d05b17a31aaeaaa00b9d3580bb7a1a2901f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HARI\.android\build-cache\946240b38fb7c7b7b17cd4bc059de455b406b528\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\Android\ravi\Android-Class-Examples\ToDoList\app\build\intermediates\pre-dexed\debug\classes_6f076e0b2c73fe7c987cb0adfd28b74f72e72b75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HARI\.android\build-cache\39f9eb4fe37f47c8f25f753e83baa236ddfc3fa8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\Android\ravi\Android-Class-Examples\ToDoList\app\build\intermediates\pre-dexed\debug\classes_7363911ba124a95b588347915b7870ab64f24160.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Studies\Android_Work\adt-bundle-windows-x86_64-20140702\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-beta4\constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="E:\Android\ravi\Android-Class-Examples\ToDoList\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-beta4_588c82f9a2e1871df6fbe3ff7abb3e48d19be485.jar" />
+    </item>
+
+</items>
